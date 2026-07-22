@@ -1,0 +1,47 @@
+{
+  "batteryId":           "AGSBTRY-LFP-2023-00742",
+  "serialNumber":        "TT-NX-LFP-40-23-004421",
+  "manufacturer":        "Tata AutoComp Energy Storage",
+  "manufacturingDate":   "2023-02-12",
+  "manufacturingPlant":  "Pune, Maharashtra",
+  "chemistry":           "Lithium Iron Phosphate (LFP)",
+  "nominalCapacityKwh":  40.5,
+  "nominalVoltageV":     355,
+  "weightKg":            318,
+  "materialComposition": {
+    "lithium":   5.8,
+    "cobalt":    0,
+    "nickel":    0,
+    "manganese": 0,
+    "iron":      22.4,
+    "graphite":  15.6,
+    "other":     56.2,
+    "ethicalSourcingScore": 91
+  },
+  "productCarbonFootprint": {
+    "manufacturingCo2eKg":     8420,
+    "lifetimeSavingsKg":       32000,
+    "carbonPaybackYears":      1.8,
+    "currentTotalEmissionsKg": 1240
+  },
+  "circularity": {
+    "secondLifeSuitabilityScore":  88,
+    "recommendedSecondLifeUse":    "Grid-scale stationary energy storage",
+    "estimatedSecondLifeValueRs":  85000,
+    "recyclingPartner":            "Attero Recycling Pvt Ltd"
+  },
+  "supplyChain": {
+    "cellSupplier":       "CATL (Contemporary Amperex Technology)",
+    "cellOriginCountry":  "China",
+    "packAssembler":      "Tata AutoComp, Pune",
+    "lithiumSource":      "Chile (SQM) — IRMA certified",
+    "supplyChainScore":   4
+  },
+  "qualityCertification": {
+    "qcPassDate":        "2023-02-28",
+    "certificationBody": "Bureau Veritas India",
+    "testReportNumber":  "BV-IND-2023-EV-004421",
+    "warrantyYears":     8,
+    "warrantyKm":        160000
+  }
+}

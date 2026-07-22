@@ -1,0 +1,4 @@
+[
+  {"id":"sr001","date":"2024-07-15","type":"routine","dealerName":"Tata Motors EV Hub — Erode","dealerCity":"Erode","description":"Annual Service — 15,000 km with battery diagnostic","partsReplaced":["Cabin air filter","Wiper blades","Tyre rotation"],"totalCostRs":4200,"nextServiceKm":20000,"nextServiceDate":"2025-07-01"},
+  {"id":"sr002","date":"2023-10-20","type":"routine","dealerName":"Tata Motors EV Hub — Coimbatore","dealerCity":"Coimbatore","description":"7,500 km First Service","partsReplaced":["Cabin air filter","Software update v2.1"],"totalCostRs":1800,"nextServiceKm":15000}
+]

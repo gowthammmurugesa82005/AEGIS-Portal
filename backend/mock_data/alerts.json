@@ -1,0 +1,6 @@
+[
+  {"id":"al001","type":"insurance","severity":"high","title":"Insurance Renewal Due in 42 Days","message":"Your Bajaj Allianz comprehensive policy expires on 14 Apr 2025. Renew early to avoid coverage gap.","timestamp":"2025-05-31T09:00:00Z","isRead":false,"actionLabel":"Renew Now","actionHref":"/insurance"},
+  {"id":"al002","type":"maintenance","severity":"medium","title":"Tyre Rotation Due Soon","message":"Front tyres showing 22% higher wear than rear. Rotation recommended within 1,580 km.","timestamp":"2025-05-31T07:00:00Z","isRead":false,"actionLabel":"Book Service","actionHref":"/dealers"},
+  {"id":"al003","type":"software","severity":"low","title":"BMS Software Update Available — v2.5.1","message":"New update improves cold-weather charging speed by 12% and optimises regen braking algorithm.","timestamp":"2025-05-30T08:00:00Z","isRead":true,"actionLabel":"View Update","actionHref":"/tracking"},
+  {"id":"al004","type":"battery","severity":"info","title":"Monthly Battery Health Report","message":"Your battery lost 0.6% SOH in May 2025 — better than 71% of Nexon EV owners. Keep it up!","timestamp":"2025-05-29T06:00:00Z","isRead":true}
+]

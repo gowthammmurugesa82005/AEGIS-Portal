@@ -1,0 +1,7 @@
+[
+  {"id":"tr001","date":"2025-05-30","startLocation":"Erode","endLocation":"Coimbatore","distanceKm":78,"durationMinutes":72,"energyKwh":14.2,"efficiencyWhKm":182,"avgSpeedKmh":65,"co2Kg":8.8,"costRs":89},
+  {"id":"tr002","date":"2025-05-28","startLocation":"Home","endLocation":"Erode Market","distanceKm":12,"durationMinutes":18,"energyKwh":2.4,"efficiencyWhKm":200,"avgSpeedKmh":40,"co2Kg":1.5,"costRs":15},
+  {"id":"tr003","date":"2025-05-26","startLocation":"Erode","endLocation":"Salem","distanceKm":65,"durationMinutes":68,"energyKwh":11.8,"efficiencyWhKm":181,"avgSpeedKmh":57,"co2Kg":7.3,"costRs":74},
+  {"id":"tr004","date":"2025-05-24","startLocation":"Erode","endLocation":"Tirupur","distanceKm":45,"durationMinutes":52,"energyKwh":8.6,"efficiencyWhKm":191,"avgSpeedKmh":52,"co2Kg":5.3,"costRs":54},
+  {"id":"tr005","date":"2025-05-22","startLocation":"Home","endLocation":"Bhavani","distanceKm":28,"durationMinutes":34,"energyKwh":5.2,"efficiencyWhKm":186,"avgSpeedKmh":49,"co2Kg":3.2,"costRs":33}
+]

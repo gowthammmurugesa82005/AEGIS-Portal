@@ -1,0 +1,7 @@
+[
+  {"id":"t001","date":"2024-07-15","category":"Maintenance","description":"Annual Service — Tata EV Hub Erode","amountRs":4200,"type":"debit","status":"success"},
+  {"id":"t002","date":"2024-06-05","category":"Loan EMI","description":"Vehicle Loan EMI — SBI May 2024","amountRs":18450,"type":"debit","status":"success"},
+  {"id":"t003","date":"2024-05-01","category":"Charging","description":"Tata Power EZ Charge — May 2024","amountRs":999,"type":"debit","status":"success"},
+  {"id":"t004","date":"2024-02-20","category":"Insurance","description":"Claim Settlement Credit","amountRs":16200,"type":"credit","status":"success"},
+  {"id":"t005","date":"2024-04-14","category":"Insurance","description":"Comprehensive Policy Premium","amountRs":24800,"type":"debit","status":"success"}
+]

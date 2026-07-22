@@ -1,0 +1,23 @@
+[
+  {
+    "chassisNumber":       "AEGIS2024TEST001",
+    "vehicleId":           "test-vehicle-001",
+    "registrationNo":      "TN 33 EV 2024",
+    "make":                "Tata",
+    "model":               "Nexon EV Max",
+    "variant":             "XZ+ LUX",
+    "year":                2023,
+    "color":               "Pristine White",
+    "purchaseDate":        "2023-04-15",
+    "ownerName":           "Gowtham R",
+    "ownerMobile":         "+91 98XXXX7890",
+    "registeredCity":      "Erode",
+    "registeredState":     "Tamil Nadu",
+    "batteryCapacityKwh":  40.5,
+    "batteryChemistry":    "LFP",
+    "motorPowerKw":        143,
+    "ratedRangeKm":        437,
+    "status":              "online",
+    "lastSeenAt":          "2025-06-01T10:30:00Z"
+  }
+]

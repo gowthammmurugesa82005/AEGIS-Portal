@@ -1,0 +1,26 @@
+[
+  {
+    "id": "se001", "type": "high_temp_park", "date": "2023-09-04",
+    "severity": "medium", "sohImpact": -0.04,
+    "description": "Vehicle parked in direct sunlight for 6+ hours, battery temp reached 48°C",
+    "recommendation": "Enable cabin pre-cool 10 min before parking to reduce thermal load"
+  },
+  {
+    "id": "se002", "type": "deep_discharge", "date": "2024-03-12",
+    "severity": "high", "sohImpact": -0.08,
+    "description": "Battery depleted to 4% SOC — below the recommended 10% floor",
+    "recommendation": "Set a low-charge reminder at 20% to avoid deep discharge events"
+  },
+  {
+    "id": "se003", "type": "dc_fast_charge", "date": "2024-06-18",
+    "severity": "low", "sohImpact": -0.02,
+    "description": "DC fast charging used 5 times in one week at >80% SOC",
+    "recommendation": "Limit DC fast charging to once per week and stop at 80% SOC"
+  },
+  {
+    "id": "se004", "type": "cold_charge", "date": "2025-01-08",
+    "severity": "low", "sohImpact": -0.01,
+    "description": "Charging initiated at 6°C ambient temperature without pre-conditioning",
+    "recommendation": "Pre-condition battery for 15 min before cold-weather charging"
+  }
+]

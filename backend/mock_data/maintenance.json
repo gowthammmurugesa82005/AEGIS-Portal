@@ -1,0 +1,6 @@
+[
+  {"id":"m001","title":"Tyre Rotation","description":"Front and rear tyres should be rotated to ensure even wear","urgency":"high","dueKm":20000,"currentKm":18420,"estimatedCostMin":400,"estimatedCostMax":800,"triggerReason":"Due in 1,580 km — front-left tyre showing 22% higher wear","isOverdue":false},
+  {"id":"m002","title":"Brake Fluid Replacement","description":"Hydraulic brake fluid degrades over time","urgency":"medium","dueDate":"2025-09-01","estimatedCostMin":800,"estimatedCostMax":1200,"triggerReason":"Last replaced 18 months ago — manufacturer recommends every 2 years","isOverdue":false},
+  {"id":"m003","title":"Cabin Air Filter","description":"Replace HEPA cabin filter for optimal air quality","urgency":"low","dueKm":20000,"currentKm":18420,"estimatedCostMin":600,"estimatedCostMax":900,"triggerReason":"Filter approaching 15,000 km service interval","isOverdue":false},
+  {"id":"m004","title":"Coolant System Inspection","description":"Thermal management coolant level and quality check","urgency":"low","dueDate":"2025-12-01","estimatedCostMin":300,"estimatedCostMax":600,"triggerReason":"Annual inspection due","isOverdue":false}
+]

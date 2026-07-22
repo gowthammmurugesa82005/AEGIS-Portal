@@ -1,0 +1,7 @@
+[
+  {"id":"d001","category":"road_tax","title":"Vehicle Road Tax — TN","amountRs":0,"dueDate":"2026-04-14","status":"upcoming","isAutoDebit":false},
+  {"id":"d002","category":"insurance","title":"Insurance Premium Renewal — Bajaj Allianz","amountRs":24800,"dueDate":"2025-04-14","status":"due_soon","isAutoDebit":false},
+  {"id":"d003","category":"emi","title":"Vehicle Loan EMI — SBI","amountRs":18450,"dueDate":"2025-06-05","status":"upcoming","isAutoDebit":true},
+  {"id":"d004","category":"charging_sub","title":"Tata Power EZ Charge — Monthly","amountRs":999,"dueDate":"2025-06-01","status":"auto_debit","isAutoDebit":true},
+  {"id":"d005","category":"service_invoice","title":"Service Invoice — EV Hub Erode","amountRs":4200,"dueDate":"2024-07-15","status":"paid","isAutoDebit":false}
+]

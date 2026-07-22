@@ -1,0 +1,16 @@
+{
+  "todayCo2Kg": 1.24,
+  "monthCo2Kg": 28.4,
+  "yearCo2Kg": 312.8,
+  "lifetimeSavedKg": 3840,
+  "currentGridFactor": 620,
+  "optimalChargingWindow": {"start":"10:30 PM","end":"6:00 AM","factor":480},
+  "monthlyCarbonHistory": [
+    {"month":"Jun 2024","co2Kg":29.1,"savedKg":198},{"month":"Jul 2024","co2Kg":31.4,"savedKg":214},
+    {"month":"Aug 2024","co2Kg":28.8,"savedKg":196},{"month":"Sep 2024","co2Kg":26.2,"savedKg":178},
+    {"month":"Oct 2024","co2Kg":24.9,"savedKg":169},{"month":"Nov 2024","co2Kg":22.8,"savedKg":155},
+    {"month":"Dec 2024","co2Kg":20.1,"savedKg":137},{"month":"Jan 2025","co2Kg":19.4,"savedKg":132},
+    {"month":"Feb 2025","co2Kg":21.2,"savedKg":144},{"month":"Mar 2025","co2Kg":25.8,"savedKg":176},
+    {"month":"Apr 2025","co2Kg":27.4,"savedKg":187},{"month":"May 2025","co2Kg":28.4,"savedKg":194}
+  ]
+}
